@@ -55,7 +55,8 @@ intercontinental WAN conditions (improveness is in progress).
 
 ## System Architecture
 
-![GTS Architecture](docs/Architecture-GTS.png)
+<img width="1536" height="1024" alt="Architecture-GTS" src="https://github.com/user-attachments/assets/b01ca78b-54ae-41ca-a2c8-8774eed32672" />
+
 
 ```
 MASTER — HHRCM Lab, Karachi, Pakistan
